@@ -6,3 +6,4 @@ env:
   - NODE_ENV='test'
 script:
   - echo "Hello World"
+  - touch "testing.txt"
